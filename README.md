@@ -8,8 +8,8 @@ Current blocks included are:
 *	[One Column Text Panel](#one-column-text-panel)
 *	[One Column Indented Text Panel](#one-column-indented-text-panel)
 *	[Two Column Text Panel](#two-column-text-panel)
-*	[Two Column Text and Image Panel - Text Left](#two-column-text-and-image-panel---text-left)
-*	[Two Column Text and Image Panel - (Text Right)](#two-column-text-and-image-panel-text-right)
+*	[Two Column Text and Image Panel (Text Left)](#two-column-text-and-image-panel-text-left)
+*	[Two Column Text and Image Panel (Text Right)](#two-column-text-and-image-panel-text-right)
 *	[Testimonial Panel](#testimonial-panel)
 
 
@@ -45,7 +45,7 @@ Two Column Text Panel
 *	Folder:	/two_column_text_panel
 *	Description: A simple text layout to display two columns of WYSIWYG content
 
-Two Column Text and Image Panel - Text Left
+Two Column Text and Image Panel (Text Left)
 -------------------------------------------
 
 *	Version: 0.9
