@@ -1,0 +1,8 @@
+.fcp-one_col_indented_text_panel {
+	@include webfontBold();
+	.row {
+		.columns {
+			border-left: 2px solid $accent1;
+		}
+	}
+}

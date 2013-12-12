@@ -1,0 +1,41 @@
+.fcp-testimonials_panel {
+	.testimonials {
+		border: none;
+		display: block;
+		box-shadow: none;
+		margin-bottom: 0;
+		width: 100%;
+		.slides {
+			.slide {
+				background-image: url('../../images/quote-tl.png');
+				background-position: left top;
+				background-repeat: no-repeat;
+				text-align: center;
+				.row .columns {
+					background-image: url('../../images/quote-br.png');
+					background-position: right bottom;
+					background-repeat: no-repeat;
+					h4.quote {
+						color: $accent1;
+					}
+				}
+			}
+		}
+		.flex-control-nav {
+			bottom: -15px;
+		}
+		.flex-control-paging {
+			li {
+				margin-left: 2px;
+				margin-right: 2px;
+				a {
+					box-shadow: none;
+					background-color: $extra3;
+					&.flex-active {
+						background-color: $accent1;
+					}
+				}
+			}
+		}
+	}
+}

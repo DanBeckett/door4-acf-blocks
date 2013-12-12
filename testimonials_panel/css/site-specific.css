@@ -1,0 +1,27 @@
+.fcp-testimonials_panel .testimonials {
+  border: none;
+  display: block;
+  box-shadow: none;
+  margin-bottom: 0;
+  width: 100%; }
+  .fcp-testimonials_panel .testimonials .slides .slide {
+    background-image: url("../../images/quote-tl.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    text-align: center; }
+    .fcp-testimonials_panel .testimonials .slides .slide .row .columns {
+      background-image: url("../../images/quote-br.png");
+      background-position: right bottom;
+      background-repeat: no-repeat; }
+      .fcp-testimonials_panel .testimonials .slides .slide .row .columns h4.quote {
+        color: #00519d; }
+  .fcp-testimonials_panel .testimonials .flex-control-nav {
+    bottom: -15px; }
+  .fcp-testimonials_panel .testimonials .flex-control-paging li {
+    margin-left: 2px;
+    margin-right: 2px; }
+    .fcp-testimonials_panel .testimonials .flex-control-paging li a {
+      box-shadow: none;
+      background-color: #cccccc; }
+      .fcp-testimonials_panel .testimonials .flex-control-paging li a.flex-active {
+        background-color: #00519d; }
